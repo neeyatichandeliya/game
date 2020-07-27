@@ -1,2 +1,2 @@
 # Rock paper and scissors game
-Childhood game implimentated using python
+Simple childhood game implimentated using python
